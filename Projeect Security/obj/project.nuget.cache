@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XP7gUDjWa7SnXkv/bTlzTVbNfDwT0RWJBM3c7sSkzKL32Sv1C85EVwGKpi2MRGiGPV0s4Ae84Wk373OUr7zk5A==",
+  "success": true,
+  "projectFilePath": "F:\\Study\\Semester 8\\CS401 Computer Security\\Project Security\\Projeect Security\\Projeect Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\sheri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sheri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sheri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
